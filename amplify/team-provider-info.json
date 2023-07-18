@@ -14,6 +14,18 @@
     "categories": {
       "auth": {
         "amplifyreactgraphqlfc18fca1": {}
+      },
+      "api": {
+        "amplifyreactgraphql": {}
+      },
+      "function": {
+        "S3Trigger9740e078": {
+          "deploymentBucketName": "amplify-amplify32cd5c46515b4-staging-94748-deployment",
+          "s3Key": "amplify-builds/S3Trigger9740e078-472f63432b583678376e-build.zip"
+        }
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
